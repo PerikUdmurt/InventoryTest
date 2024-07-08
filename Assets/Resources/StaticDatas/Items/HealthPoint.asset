@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 109e648514adcaf408924cfa377a86e1, type: 3}
   m_Name: HealthPoint
   m_EditorClassIdentifier: 
-  Name: 
+  Name: HealthPoition
   Sprite: {fileID: 0}
   Weight: 0
   MaxStack: 0

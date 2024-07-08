@@ -16,4 +16,4 @@ MonoBehaviour:
   Sprite: {fileID: 0}
   Weight: 0
   MaxStack: 0
-  WeaponType: 0
+  WeaponType: 1
